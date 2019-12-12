@@ -4,3 +4,11 @@ print('This is Ruby!');
 function rugby() {
     This.game;
 }
+
+# cat list
+apple
+orange
+banana
+grape
+watermelon
+pineapple
