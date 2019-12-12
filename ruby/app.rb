@@ -5,10 +5,11 @@ function rugby() {
     This.game;
 }
 
-# cat list
+$ cat list
 apple
 orange
 banana
 grape
 watermelon
 pineapple
+
