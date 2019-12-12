@@ -13,3 +13,6 @@ grape
 watermelon
 pineapple
 
+$ grep toes list
+potatoes
+tomatoes
